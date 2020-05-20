@@ -1,0 +1,16 @@
+ENVI
+description = {
+  Forward PC Result [Wed Apr 29 22:30:32 2020]}
+samples = 610
+lines   = 340
+bands   = 5
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ PC Band 1 (PaviaU), PC Band 2 (PaviaU), PC Band 3 (PaviaU), 
+ PC Band 4 (PaviaU), PC Band 5 (PaviaU)}

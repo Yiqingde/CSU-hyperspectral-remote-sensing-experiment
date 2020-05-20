@@ -1,0 +1,38 @@
+ENVI
+description = {
+  Forward MNF Result [Wed Apr 29 11:15:00 2020]}
+samples = 400
+lines   = 350
+bands   = 50
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 215
+y start = 295
+wavelength units = Unknown
+band names = {
+ MNF Band 1 (cup), MNF Band 2 (cup), MNF Band 3 (cup), MNF Band 4 (cup), 
+ MNF Band 5 (cup), MNF Band 6 (cup), MNF Band 7 (cup), MNF Band 8 (cup), 
+ MNF Band 9 (cup), MNF Band 10 (cup), MNF Band 11 (cup), MNF Band 12 (cup), 
+ MNF Band 13 (cup), MNF Band 14 (cup), MNF Band 15 (cup), MNF Band 16 (cup), 
+ MNF Band 17 (cup), MNF Band 18 (cup), MNF Band 19 (cup), MNF Band 20 (cup), 
+ MNF Band 21 (cup), MNF Band 22 (cup), MNF Band 23 (cup), MNF Band 24 (cup), 
+ MNF Band 25 (cup), MNF Band 26 (cup), MNF Band 27 (cup), MNF Band 28 (cup), 
+ MNF Band 29 (cup), MNF Band 30 (cup), MNF Band 31 (cup), MNF Band 32 (cup), 
+ MNF Band 33 (cup), MNF Band 34 (cup), MNF Band 35 (cup), MNF Band 36 (cup), 
+ MNF Band 37 (cup), MNF Band 38 (cup), MNF Band 39 (cup), MNF Band 40 (cup), 
+ MNF Band 41 (cup), MNF Band 42 (cup), MNF Band 43 (cup), MNF Band 44 (cup), 
+ MNF Band 45 (cup), MNF Band 46 (cup), MNF Band 47 (cup), MNF Band 48 (cup), 
+ MNF Band 49 (cup), MNF Band 50 (cup)}
+original wavelength = {
+ 1.990800, 2.000900, 2.010900, 2.020900, 2.030900, 2.040900, 2.050900,
+ 2.060900, 2.071000, 2.081000, 2.091000, 2.101000, 2.111000, 2.121000,
+ 2.130900, 2.140900, 2.150900, 2.160900, 2.170900, 2.180900, 2.190800,
+ 2.200800, 2.210800, 2.220800, 2.230700, 2.240700, 2.250600, 2.260600,
+ 2.270600, 2.280500, 2.290400, 2.300400, 2.310400, 2.320300, 2.330200,
+ 2.340200, 2.350100, 2.360000, 2.370000, 2.379900, 2.389800, 2.399700,
+ 2.409600, 2.419600, 2.429500, 2.439400, 2.449300, 2.459200, 2.469100,
+ 2.479000}

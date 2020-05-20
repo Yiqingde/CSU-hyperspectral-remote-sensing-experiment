@@ -1,0 +1,49 @@
+ENVI
+description = {
+  Forward PC Result [Fri Mar 13 10:27:55 2020]}
+samples = 610
+lines   = 340
+bands   = 103
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ PC Band 1 (PaviaU), PC Band 2 (PaviaU), PC Band 3 (PaviaU), 
+ PC Band 4 (PaviaU), PC Band 5 (PaviaU), PC Band 6 (PaviaU), 
+ PC Band 7 (PaviaU), PC Band 8 (PaviaU), PC Band 9 (PaviaU), 
+ PC Band 10 (PaviaU), PC Band 11 (PaviaU), PC Band 12 (PaviaU), 
+ PC Band 13 (PaviaU), PC Band 14 (PaviaU), PC Band 15 (PaviaU), 
+ PC Band 16 (PaviaU), PC Band 17 (PaviaU), PC Band 18 (PaviaU), 
+ PC Band 19 (PaviaU), PC Band 20 (PaviaU), PC Band 21 (PaviaU), 
+ PC Band 22 (PaviaU), PC Band 23 (PaviaU), PC Band 24 (PaviaU), 
+ PC Band 25 (PaviaU), PC Band 26 (PaviaU), PC Band 27 (PaviaU), 
+ PC Band 28 (PaviaU), PC Band 29 (PaviaU), PC Band 30 (PaviaU), 
+ PC Band 31 (PaviaU), PC Band 32 (PaviaU), PC Band 33 (PaviaU), 
+ PC Band 34 (PaviaU), PC Band 35 (PaviaU), PC Band 36 (PaviaU), 
+ PC Band 37 (PaviaU), PC Band 38 (PaviaU), PC Band 39 (PaviaU), 
+ PC Band 40 (PaviaU), PC Band 41 (PaviaU), PC Band 42 (PaviaU), 
+ PC Band 43 (PaviaU), PC Band 44 (PaviaU), PC Band 45 (PaviaU), 
+ PC Band 46 (PaviaU), PC Band 47 (PaviaU), PC Band 48 (PaviaU), 
+ PC Band 49 (PaviaU), PC Band 50 (PaviaU), PC Band 51 (PaviaU), 
+ PC Band 52 (PaviaU), PC Band 53 (PaviaU), PC Band 54 (PaviaU), 
+ PC Band 55 (PaviaU), PC Band 56 (PaviaU), PC Band 57 (PaviaU), 
+ PC Band 58 (PaviaU), PC Band 59 (PaviaU), PC Band 60 (PaviaU), 
+ PC Band 61 (PaviaU), PC Band 62 (PaviaU), PC Band 63 (PaviaU), 
+ PC Band 64 (PaviaU), PC Band 65 (PaviaU), PC Band 66 (PaviaU), 
+ PC Band 67 (PaviaU), PC Band 68 (PaviaU), PC Band 69 (PaviaU), 
+ PC Band 70 (PaviaU), PC Band 71 (PaviaU), PC Band 72 (PaviaU), 
+ PC Band 73 (PaviaU), PC Band 74 (PaviaU), PC Band 75 (PaviaU), 
+ PC Band 76 (PaviaU), PC Band 77 (PaviaU), PC Band 78 (PaviaU), 
+ PC Band 79 (PaviaU), PC Band 80 (PaviaU), PC Band 81 (PaviaU), 
+ PC Band 82 (PaviaU), PC Band 83 (PaviaU), PC Band 84 (PaviaU), 
+ PC Band 85 (PaviaU), PC Band 86 (PaviaU), PC Band 87 (PaviaU), 
+ PC Band 88 (PaviaU), PC Band 89 (PaviaU), PC Band 90 (PaviaU), 
+ PC Band 91 (PaviaU), PC Band 92 (PaviaU), PC Band 93 (PaviaU), 
+ PC Band 94 (PaviaU), PC Band 95 (PaviaU), PC Band 96 (PaviaU), 
+ PC Band 97 (PaviaU), PC Band 98 (PaviaU), PC Band 99 (PaviaU), 
+ PC Band 100 (PaviaU), PC Band 101 (PaviaU), PC Band 102 (PaviaU), 
+ PC Band 103 (PaviaU)}

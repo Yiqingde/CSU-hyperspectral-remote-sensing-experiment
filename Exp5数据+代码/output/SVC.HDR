@@ -1,0 +1,22 @@
+ENVI
+description = {
+  SVM Classification Result [Thu Apr 30 10:26:42 2020]}
+samples = 610
+lines   = 340
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 10
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 255,   0,   0,   0, 255, 255, 255,   0,
+   0, 255, 255, 255,   0, 255, 176,  48,  96,  46, 139,  87, 160,  32, 240}
+class names = {
+ Unclassified, 1road, 2lawn, 3ceme, 4tree, 5line, 6land, 7pitch, 8park, 
+ Region #9}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ SVM (PCrot)}

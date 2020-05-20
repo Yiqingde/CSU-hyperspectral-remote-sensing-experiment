@@ -1,0 +1,16 @@
+ENVI
+description = {
+  SVM Rule Images [Thu Apr 30 10:26:42 2020]}
+samples = 610
+lines   = 340
+bands   = 9
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Rule (1road), Rule (2lawn), Rule (3ceme), Rule (4tree), Rule (5line), 
+ Rule (6land), Rule (7pitch), Rule (8park), Rule (Region #9)}

@@ -1,0 +1,24 @@
+ENVI
+description = {
+  Parallelepiped Classification Result [Thu Apr 30 09:42:59 2020]}
+samples = 610
+lines   = 340
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 10
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 255,   0,   0,   0, 255, 255, 255,   0,
+   0, 255, 255, 255,   0, 255, 176,  48,  96,  46, 139,  87, 160,  32, 240}
+class names = {
+ Unclassified, 1road [Red] 94 points, 2lawn [Green] 97 points, 
+ 3ceme [Blue] 90 points, 4tree [Yellow] 91 points, 5lime [Cyan] 99 points, 
+ 6land [Magenta] 96 points, 7pitc [Maroon] 791 points, 
+ 8park [Sea Green] 95 points, 9shad [Purple] 92 points}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Parallel (PCrot)}
